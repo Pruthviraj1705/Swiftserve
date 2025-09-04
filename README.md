@@ -85,5 +85,5 @@ You are free to modify and sell this code, provided you include the original cop
 
 ## 📞 Support
 For questions or support, please reach out:
-- **Email:** pruthvirajj1217@example.com
+- **Email:** pruthvirajj1217@gmail.com
 - **GitHub:** [https://github.com/Pruthviraj1705](https://github.com/Pruthviraj1705)
