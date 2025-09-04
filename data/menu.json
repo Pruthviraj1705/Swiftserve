@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "1": ["Tea", 15],
     "2": ["Coffee", 25],
@@ -20,3 +21,27 @@
     "19": ["Ice Cream", 60],
     "20": ["Gulab Jamun", 30]
 }
+=======
+{
+    "1": ["Tea", 15],
+    "2": ["Coffee", 25],
+    "3": ["Cold Drink", 40],
+    "4": ["Poha", 30],
+    "5": ["Upma", 35],
+    "6": ["Sandwich", 50],
+    "7": ["Burger", 80],
+    "8": ["French Fries", 70],
+    "9": ["Pizza", 250],
+    "10": ["Veg Thali", 120],
+    "11": ["Non-Veg Thali", 180],
+    "12": ["Biryani", 150],
+    "13": ["Paneer Butter Masala", 220],
+    "14": ["Chicken Curry", 240],
+    "15": ["Roti", 12],
+    "16": ["Paratha", 25],
+    "17": ["Idli Sambar", 50],
+    "18": ["Masala Dosa", 70],
+    "19": ["Ice Cream", 60],
+    "20": ["Gulab Jamun", 30]
+}
+>>>>>>> df8a4a92eb20dae2a025453c71103b10458fbdc3
